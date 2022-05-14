@@ -1,0 +1,43 @@
+*{
+    font-family: Montserrat;
+}
+
+#services_offered{
+    margin-top: 30px;
+}
+.services_column{
+    padding: 20px;
+    text-align: center;
+}
+.services_content{
+    margin-top: 70px;
+    text-align: justify;
+    
+}
+.image-div{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+button{
+    margin-top: 100px;
+    margin-bottom: 50px;;
+}
+footer{
+    background-color: rgb(253, 217, 134);
+    
+}
+
+.footer-link{
+    color:rgb(213, 2, 2);
+    text-decoration: none;
+}
+.logo-footer{
+    margin-top: 60px;
+}
+h4{
+    font-size: smaller;
+}
+h5{
+    font-size: smaller;
+}
